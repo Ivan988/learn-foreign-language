@@ -1,0 +1,28 @@
+{
+  "name": "learn-foreign-language",
+  "version": "1.0.0",
+  "description": "Software for learning languages.",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ivan988/learn-foreign-language.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ivan988/learn-foreign-language/issues"
+  },
+  "homepage": "https://github.com/Ivan988/learn-foreign-language#readme",
+  "dependencies": {
+    "babel-preset-react": "^6.5.0",
+    "babelify": "^7.2.0",
+    "react": "^0.14.7",
+    "react-dom": "^0.14.7"
+  },
+  "devDependencies": {
+    "jsx-loader": "^0.13.2"
+  }
+}
